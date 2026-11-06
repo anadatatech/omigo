@@ -3,3 +3,7 @@ uvicorn
 rasterio
 pyproj
 numpy
+requests
+osmnx
+geopandas 
+shapely
